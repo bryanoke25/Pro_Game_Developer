@@ -37,5 +37,7 @@ class Student():
         print(self.class_teacher)
 
 Blake = Student()
-Thomas = Student()
+Blake.change_details()
+Blake.show_details()
+#thomas =
 #jack = Student.change_details()
